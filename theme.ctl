@@ -1,4 +1,4 @@
-1|Catppuccin-Mocha|Catppuccin.catppuccin-vsc~Catppuccin Mocha|~/.config/swww/Catppuccin-Mocha/boat_abondoned.jpg
+1|Catppuccin-Mocha|Catppuccin.catppuccin-vsc~Catppuccin Mocha|~/.config/swww/Catppuccin-Mocha/aesthetic_deer.png
 0|Catppuccin-Latte|Catppuccin.catppuccin-vsc~Catppuccin Latte|~/.config/swww/Catppuccin-Latte/samurai_bebop.png
 0|Decay-Green|decaycs.decay~Decayce|~/.config/swww/Decay-Green/moments_before_desk.png
 0|Rose-Pine|mvllow.rose-pine~Rosé Pine|~/.config/swww/Rose-Pine/nimbus.gif
