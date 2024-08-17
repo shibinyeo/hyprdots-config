@@ -43,7 +43,6 @@ exec-once = wl-paste --type image --watch cliphist store # clipboard store image
 exec-once = $scrPath/swwwallpaper.sh # start wallpaper daemon
 exec-once = $scrPath/batterynotify.sh # battery notification
 
-#exec-once = [workspace 1 silent] microsoft-edge-beta --enable-features=UseOzonePlatform --ozone-platform=wayland
 exec-once = [workspace 1 silent] firefox
 exec-once = [workspace 2 silent] obsidian --enable-features=UseOzonePlatform --ozone-platform=wayland
 exec-once = [workspace 5 silent] telegram-desktop
@@ -101,8 +100,6 @@ device {
 gestures {
     workspace_swipe = true
     workspace_swipe_fingers = 3
-    workspace_swipe_forever = true
-    workspace_swipe_cancel_ratio = 0.1
 }
 
 
@@ -119,7 +116,7 @@ dwindle {
 # See https://wiki.hyprland.org/Configuring/Master-Layout/
 
 master {
-    new_is_master = true
+    new_status = master
 }
 
 
